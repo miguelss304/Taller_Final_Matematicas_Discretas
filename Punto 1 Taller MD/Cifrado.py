@@ -10,4 +10,4 @@ def cifrar_mensaje():
             letra = abecedario[letra]
             print (letra, end="")
         else:
-            print (letra, end="")
+            print (letra, end="") #Se realiza el cifrado del mensaje, si la letra no esta en el abecedario se imprime tal cual

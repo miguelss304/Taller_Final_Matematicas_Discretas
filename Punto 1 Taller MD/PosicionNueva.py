@@ -6,7 +6,7 @@ def  nueva_posicion(k):
         posicion_nueva  = (valor + k) % 26
         new_abecedario[clave] = letras[posicion_nueva]
     return new_abecedario
-    
+#Se crea un nuevo diccionario que contenga las nuevas posiciones de las letras del abecedario
 
 
 

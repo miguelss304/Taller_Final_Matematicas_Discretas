@@ -5,3 +5,4 @@ if x == 1:
     cifrar_mensaje()
 elif x == 2:
     descifrar_mensaje()
+#Funciona como main para que el usuario escoja que desea
