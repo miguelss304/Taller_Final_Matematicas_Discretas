@@ -32,6 +32,8 @@ contrario en el punto correspondiente.
 │   │   │   └── grafo_ciudad.txt
 │   │   ├── punto5_cierre_estacion.py
 |   |   └── punto6_coloreo_grafos.py
+|   |       ├── coloreo_grafos.py
+|   |       └── grafo_cursos.txt
 │   ├── Bool/                   # Puntos 7-8
 │   └── Cuantica/               # Puntos 9-10
 │       └── punto9_shannon.py
