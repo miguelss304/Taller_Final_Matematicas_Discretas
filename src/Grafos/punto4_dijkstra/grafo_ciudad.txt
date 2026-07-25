@@ -1,0 +1,13 @@
+# Formato: origen destino peso
+Portal Calle26 5
+Portal Terminal 8
+Calle26 Museo 3
+Calle26 Centro 7
+Museo Centro 2
+Museo Universidad 6
+Centro Universidad 4
+Centro Terminal 5
+Terminal Estadio 9
+Universidad Parque 3
+Parque Estadio 4
+Estadio Centro 6
