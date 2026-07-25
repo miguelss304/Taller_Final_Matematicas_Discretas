@@ -1,0 +1,19 @@
+# Formato: cursoA cursoB  (indica que tienen estudiantes en común)
+BasesDeDatos FEM
+BasesDeDatos ProgramacionI
+BasesDeDatos IngSoftware
+BasesDeDatos Quimica
+FEM Calculo
+FEM Fisica2
+FEM SistemasOperativos
+Discreta ProgramacionI
+Discreta Algebra
+Discreta Estadistica
+Calculo Algebra
+Calculo Fisica2
+ProgramacionI IngSoftware
+ProgramacionI SistemasOperativos
+IngSoftware RedesComputadores
+Fisica2 Quimica
+Algebra Estadistica
+RedesComputadores SistemasOperativos
