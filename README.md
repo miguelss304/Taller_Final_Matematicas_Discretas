@@ -6,7 +6,7 @@ Criptografía, grafos, álgebra de Boole, Shannon y un primer vistazo cuántico.
 ## Integrantes
 
 - Miguel Angel Sanchez Sandoval
-- David Montiel
+- David Santiago Montiel Rodriguez
 
 ## Lenguaje usado
 
@@ -25,13 +25,14 @@ contrario en el punto correspondiente.
 │   │   ├── punto1_cesar.py
 │   │   ├── punto2_RSA.py
 │   │   └── punto3_MPC.py
-│   ├── Grafos/                # Puntos 4-5
+│   ├── Grafos/                # Puntos 4-6
 │   │   ├── punto4_dijkstra/
 │   │   │   ├── dijkstra.py
 │   │   │   ├── ejecutar_grafo.py
 │   │   │   └── grafo_ciudad.txt
-│   │   └── punto5_cierre_estacion.py
-│   ├── Bool/                   # Puntos 6-8
+│   │   ├── punto5_cierre_estacion.py
+|   |   └── punto6_coloreo_grafos.py
+│   ├── Bool/                   # Puntos 7-8
 │   └── Cuantica/               # Puntos 9-10
 │       └── punto9_shannon.py
 ├── tests/                      # Pruebas de cada punto (test_*.py)
@@ -67,7 +68,7 @@ pytest tests/test_<nombre>.py -v
 | 3 | MPC básico | ✅ Completo | `src/Criptografia/punto3_MPC.py` | `tests/test_3_MPC.py` | `docs/punto3_MCP.md`* |
 | 4 | Ruta más corta (Dijkstra) | ✅ Completo | `src/Grafos/punto4_dijkstra/dijkstra.py` | `tests/test_4_dijkstra.py` | `docs/punto4_dijkstra.md` |
 | 5 | Cierre de una estación | ✅ Completo | `src/Grafos/punto5_cierre_estacion.py` | `tests/test_5_cierre_estacion.py` | `docs/punto5_cierre_estacion.md` |
-| 6 | Coloreo de grafos | ⬜ Pendiente | `src/Bool/` | `tests/` | `docs/` |
+| 6 | Coloreo de grafos | ✅ Completado | `src/Grafos/punto6_coloreo_grafos/coloreo_grafos.py` | `tests/test_6_coloreo_grafos.py` | `docs/punto6_coloreo_grafos.md` |
 | 7 | Tablas de verdad | ⬜ Pendiente | `src/Bool/` | `tests/` | `docs/` |
 | 8 | Simplificación booleana | ⬜ Pendiente | `src/Bool/` | `tests/` | `docs/` |
 | 9 | Entropía de Shannon | ✅ Completo | `src/Cuantica/punto9_shannon.py` | `tests/test_9_shannon.py` | `docs/punto9_shannon.md` |
