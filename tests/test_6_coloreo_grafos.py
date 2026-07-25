@@ -13,11 +13,11 @@ import sys
 import os
  
 RUTA_MODULO = os.path.join(
-    os.path.dirname(__file__), "..", "src", "Grafos"
+    os.path.dirname(__file__), "..", "src", "Grafos","punto6_coloreo_grafos"
 )
 sys.path.insert(0, os.path.abspath(RUTA_MODULO))
  
-from punto6_coloreo_grafos import (
+from coloreo_grafos import (
     grado,
     obtener_aristas,
     orden_grado_descendente,

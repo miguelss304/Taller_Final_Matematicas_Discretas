@@ -22,7 +22,7 @@ import os
 # (src/Grafos/Punto 4 Taller MD) en vez de importarlo como paquete, ya
 # que el nombre de la carpeta tiene espacios.
 RUTA_MODULO = os.path.join(
-    os.path.dirname(__file__), "..", "src", "Grafos", "Punto4"
+    os.path.dirname(__file__), "..", "src", "Grafos", "punto4_dijkstra"
 )
 sys.path.insert(0, os.path.abspath(RUTA_MODULO))
 
@@ -116,7 +116,7 @@ def test_peso_negativo_rechazado():
 # ---------------------------------------------------------------------------
 def test_carga_desde_archivo():
     ruta_archivo = os.path.join(
-        os.path.dirname(__file__), "..", "src", "Grafos", "Punto4",
+        os.path.dirname(__file__), "..", "src", "Grafos", "punto4_dijkstra",
         "grafo_ciudad.txt"
     )
     g_archivo = cargar_grafo_desde_archivo(ruta_archivo)
