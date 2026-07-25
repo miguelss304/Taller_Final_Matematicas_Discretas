@@ -77,7 +77,7 @@ Punto 4 (mismo repositorio).
 
 ```bash
 cd "src/Grafos/Punto 5 Taller MD"
-python3 cierre_estacion.py
+python cierre_estacion.py
 ```
 
 Esto corre el caso de prueba con el cierre del vértice `"Centro"` y

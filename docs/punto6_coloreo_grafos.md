@@ -117,7 +117,7 @@ Punto 4 (mismo repositorio), del cual se reutiliza la clase `Grafo`.
 
 ```bash
 cd src/Grafos/punto6_coloreo_grafos
-python3 coloreo_grafos.py
+python coloreo_grafos.py
 ```
 
 Esto corre el caso de prueba (12 cursos, 18 conflictos), colorea con la

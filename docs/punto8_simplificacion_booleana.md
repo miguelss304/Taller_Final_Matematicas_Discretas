@@ -68,7 +68,7 @@ Requisitos: Python 3.8+. No se usan librerías externas.
 
 ```bash
 cd src/Bool
-python3 punto8_simplificacion_booleana.py
+python punto8_simplificacion_booleana.py
 ```
 
 Ejemplo de ejecución (caso de prueba del taller):

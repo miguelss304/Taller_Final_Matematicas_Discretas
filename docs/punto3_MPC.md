@@ -54,7 +54,7 @@ la biblioteca estándar).
 
 ```bash
 cd "src/Criptografia/Punto 3 Taller MD"
-python3 mpc.py
+python mpc.py
 ```
 
 Ejemplo de ejecución:

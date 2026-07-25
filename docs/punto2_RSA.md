@@ -78,7 +78,7 @@ Requisitos: Python 3.8+. No se usan librerías externas.
 
 ```bash
 cd "src/Criptografia/Punto 2 Taller MD"
-python3 rsa.py
+python rsa.py
 ```
 
 **Ejemplo (caso de prueba obligatorio del taller):**

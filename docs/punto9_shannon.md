@@ -60,7 +60,7 @@ biblioteca estándar).
 
 ```bash
 cd "src/Cuantica/Punto 9 Taller MD"
-python3 shannon.py
+python shannon.py
 ```
 
 Ejemplo de ejecución:
