@@ -35,6 +35,7 @@ contrario en el punto correspondiente.
 |   |       ├── coloreo_grafos.py
 |   |       └── grafo_cursos.txt
 │   ├── Bool/                   # Puntos 7-8
+|   |   └── punto8_simplificacion_booleana
 │   └── Cuantica/               # Puntos 9-10
 │       └── punto9_shannon.py
 ├── tests/                      # Pruebas de cada punto (test_*.py)
@@ -72,7 +73,7 @@ pytest tests/test_<nombre>.py -v
 | 5 | Cierre de una estación | ✅ Completo | `src/Grafos/punto5_cierre_estacion.py` | `tests/test_5_cierre_estacion.py` | `docs/punto5_cierre_estacion.md` |
 | 6 | Coloreo de grafos | ✅ Completado | `src/Grafos/punto6_coloreo_grafos/coloreo_grafos.py` | `tests/test_6_coloreo_grafos.py` | `docs/punto6_coloreo_grafos.md` |
 | 7 | Tablas de verdad | ⬜ Pendiente | `src/Bool/` | `tests/` | `docs/` |
-| 8 | Simplificación booleana | ⬜ Pendiente | `src/Bool/` | `tests/` | `docs/` |
+| 8 | Simplificación booleana | ✅ Completado | `src/Bool/punto8_simplificacion_booleana.py` | `tests/test_8_simplificacion_booleana.py` | `docs/punto8_simplificacion_booleana.md` |
 | 9 | Entropía de Shannon | ✅ Completo | `src/Cuantica/punto9_shannon.py` | `tests/test_9_shannon.py` | `docs/punto9_shannon.md` |
 | 10 | Simulador de un qubit | ⬜ Pendiente | `src/Cuantica/` | `tests/` | `docs/` |
 
