@@ -64,7 +64,7 @@ pytest tests/test_<nombre>.py -v
 |---|-------|--------|--------|---------|----------------|
 | 1 | Cifrado César | ✅ Completo | `src/Criptografia/punto1_cesar.py` | `tests/test_1_cesar.py` | `docs/punto1_cesar.md` |
 | 2 | RSA de juguete | ✅ Completo | `src/Criptografia/punto2_RSA.py` | `tests/test_2_RSA.py` | `docs/punto2_RSA.md` |
-| 3 | MPC básico | ✅ Completo | `src/Criptografia/punto3_MPC.py` | `tests/test_3_MPC.py` | `docs/punto3_MCP.md`* |
+| 3 | MPC básico | ✅ Completo | `src/Criptografia/punto3_MPC.py` | `tests/test_3_MPC.py` | `docs/punto3_MCP.md` |
 | 4 | Ruta más corta (Dijkstra) | ✅ Completo | `src/Grafos/punto4_dijkstra/dijkstra.py` | `tests/test_4_dijkstra.py` | `docs/punto4_dijkstra.md` |
 | 5 | Cierre de una estación | ✅ Completo | `src/Grafos/punto5_cierre_estacion.py` | `tests/test_5_cierre_estacion.py` | `docs/punto5_cierre_estacion.md` |
 | 6 | Coloreo de grafos | ⬜ Pendiente | `src/Bool/` | `tests/` | `docs/` |
