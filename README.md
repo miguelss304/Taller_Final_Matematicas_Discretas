@@ -8,6 +8,25 @@ Criptografía, grafos, álgebra de Boole, Shannon y un primer vistazo cuántico.
 - Miguel Angel Sanchez Sandoval
 - David Santiago Montiel Rodriguez
 
+## Declaración de uso de IA
+
+En el desarrollo de este taller se utilizó inteligencia artificial (IA)
+como herramienta de apoyo, de la siguiente manera:
+
+- **README:** este documento fue redactado casi en su totalidad con
+  ayuda de IA, a partir de la información real del repositorio.
+- **Código de cada punto:** primero se implementó la lógica y el
+  algoritmo de cada punto por cuenta propia; después, ese código se pasó
+  por una IA para darle formato, organizarlo mejor y redactar los
+  comentarios ya hechos de forma más clara.
+- **Documentación de cada punto (`docs/`):** se siguió el mismo proceso:
+  las explicaciones matemáticas y conceptuales se redactaron primero por
+  nuestra parte, y luego se usó IA como apoyo para mejorar la gramática y
+  la redacción.
+- **Pruebas (`tests/`):** se usó IA como apoyo principal para escribir
+  los archivos de test, ya que no contábamos con experiencia previa
+  usando frameworks de pruebas como `pytest`.
+
 ## Lenguaje usado
 
 Python 3.8+. No se usan librerías externas más allá de la biblioteca
